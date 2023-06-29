@@ -1,6 +1,7 @@
 .my-first-dag {
   height: 400px;
-  width: auto;
+  margin-left: 40px;
+  width: 800px;
   overflow-x: scroll;
 }
 
