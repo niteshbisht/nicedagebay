@@ -1,0 +1,11 @@
+.my-first-dag {
+  height: 400px;
+  width: auto;
+  overflow-x: scroll;
+}
+
+.my-first-dag-node {
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+}
