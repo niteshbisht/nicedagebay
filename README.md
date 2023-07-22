@@ -1,3 +1,5 @@
+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
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
